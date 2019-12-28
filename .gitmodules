@@ -1,0 +1,3 @@
+[submodule "Assets/Submodules/SerialPortWrapper"]
+	path = Assets/Submodules/SerialPortWrapper
+	url = git@github.com:baobao/SerialPortWrapper.git
